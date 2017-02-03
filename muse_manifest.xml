@@ -1,0 +1,42 @@
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="techfire.tk" resolutions="1x" timestamp="1486141476749">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="370606095" ref="index"/>
+    <file name="softwares.css" crc="4254017245" ref="softwares"/>
+    <file name="master_a-master.css" crc="457295459" ref="softwares:index:internet-boost"/>
+    <file name="iefonts_softwares.css" crc="3898730442" ref="softwares"/>
+    <file name="internet-boost.css" crc="411121396" ref="internet-boost"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:softwares:internet-boost"/>
+    <file name="museutils.js" crc="163421577" ref="index:softwares:internet-boost"/>
+    <file name="whatinput.js" crc="86476730" ref="index:softwares:internet-boost"/>
+    <file name="museconfig.js" crc="168988563" ref="index:softwares:internet-boost"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:softwares:internet-boost"/>
+    <file name="require.js" crc="244322403" ref="index:softwares:internet-boost"/>
+    <file name="jquery.musemenu.js" crc="146495465" ref="index:softwares:internet-boost"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:softwares:internet-boost"/>
+  </folder>
+  <folder name="images">
+    <file name="fire!.png" crc="5031136" seo="true" ref="index:softwares:internet-boost"/>
+    <file name="fire bar.jpg" crc="3937245226" seo="true" ref="softwares:index:internet-boost"/>
+    <file name="u480-4.png" crc="4111075871" ref="softwares:index:internet-boost"/>
+    <file name="u150-4.png" crc="4263626210" ref="index:softwares:internet-boost"/>
+    <file name="u383-4.png" crc="4147008087" ref="index:softwares:internet-boost"/>
+    <file name="u362-4.png" crc="212641876" ref="index:softwares:internet-boost"/>
+    <file name="u341-4.png" crc="508646308" ref="index:softwares:internet-boost"/>
+    <file name="u320-4.png" crc="4278130247" ref="index:softwares:internet-boost"/>
+    <file name="speedometer406x160.png" crc="3971950392" seo="true" ref="index"/>
+    <file name="software-icon-6.png" crc="532198602" seo="true" ref="index"/>
+    <file name="u411-4.png" crc="4028651136" ref="index:softwares:internet-boost"/>
+    <file name="softwares-1.png" crc="466618622" seo="true" ref="softwares"/>
+    <file name="speedometer.png" crc="3971950392" seo="true" ref="internet-boost"/>
+    <file name="capture.jpg" crc="21064381" seo="true" ref="internet-boost"/>
+    <file name="admin.jpg" crc="211571158" seo="true" ref="internet-boost"/>
+    <file name="edited adp.png" crc="376105725" seo="true" ref="internet-boost"/>
+    <file name="speed test idm.jpg" crc="412302806" seo="true" ref="internet-boost"/>
+  </folder>
+  <file name="index.html" crc="4031780770" seo="true" mt="1486141350232" redirect="true"/>
+  <file name="softwares.html" crc="4030240907" seo="true" mt="1486126193052" redirect="true"/>
+  <file name="internet-boost.html" crc="3909988373" seo="true" mt="1486125455889" redirect="true"/>
+</manifest>
