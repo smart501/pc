@@ -1,0 +1,54 @@
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="techfire.tk" resolutions="1x" timestamp="1487164865947">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="280897169" ref="index"/>
+    <file name="master_a-master.css" crc="4112611589" ref="softwares:32bit-or-64bit:index:internet-boost:rar-extract"/>
+    <file name="softwares.css" crc="3965101340" ref="softwares"/>
+    <file name="iefonts_softwares.css" crc="351154275" ref="softwares"/>
+    <file name="32bit-or-64bit.css" crc="507772559" ref="32bit-or-64bit"/>
+    <file name="internet-boost.css" crc="199990344" ref="internet-boost"/>
+    <file name="rar-extract.css" crc="221253206" ref="rar-extract"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:softwares:internet-boost:rar-extract:32bit-or-64bit"/>
+    <file name="museutils.js" crc="163421577" ref="index:softwares:internet-boost:rar-extract:32bit-or-64bit"/>
+    <file name="whatinput.js" crc="86476730" ref="index:softwares:internet-boost:rar-extract:32bit-or-64bit"/>
+    <file name="museconfig.js" crc="168988563" ref="index:softwares:internet-boost:rar-extract:32bit-or-64bit"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:softwares:internet-boost:rar-extract:32bit-or-64bit"/>
+    <file name="require.js" crc="244322403" ref="index:softwares:internet-boost:rar-extract:32bit-or-64bit"/>
+    <file name="jquery.musemenu.js" crc="146495465" ref="index:softwares:internet-boost:rar-extract:32bit-or-64bit"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:softwares:internet-boost:rar-extract:32bit-or-64bit"/>
+  </folder>
+  <folder name="images">
+    <file name="fire!.png" crc="5031136" seo="true" ref="index:softwares:internet-boost:rar-extract:32bit-or-64bit"/>
+    <file name="favicon.ico" crc="528919677" ref="index"/>
+    <file name="fire bar.jpg" crc="151167321" seo="true" ref="index:softwares:internet-boost:rar-extract:32bit-or-64bit"/>
+    <file name="speedometer406x160.png" crc="3971950392" seo="true" ref="index"/>
+    <file name="software-icon-6.png" crc="532198602" seo="true" ref="index"/>
+    <file name="unnamed.png" crc="284761733" seo="true" ref="index:rar-extract"/>
+    <file name="computer-icon--vista-hardware-devices-iconset--icons-land-17.png" crc="4061494857" seo="true" ref="index"/>
+    <file name="softwares-1.png" crc="466618622" seo="true" ref="softwares"/>
+    <file name="speedometer.png" crc="3971950392" seo="true" ref="internet-boost"/>
+    <file name="capture.jpg" crc="21064381" seo="true" ref="internet-boost"/>
+    <file name="admin.jpg" crc="211571158" seo="true" ref="internet-boost"/>
+    <file name="edited adp.png" crc="376105725" seo="true" ref="internet-boost"/>
+    <file name="speed test idm.jpg" crc="412302806" seo="true" ref="internet-boost"/>
+    <file name="capture2.jpg" crc="3798286584" seo="true" ref="rar-extract"/>
+    <file name="2.jpg" crc="170100451" seo="true" ref="rar-extract"/>
+    <file name="11.jpg" crc="3997516851" seo="true" ref="rar-extract"/>
+    <file name="5.jpg" crc="11413800" seo="true" ref="rar-extract"/>
+    <file name="6.jpg" crc="4166427604" seo="true" ref="rar-extract"/>
+    <file name="7.jpg" crc="3977049041" seo="true" ref="rar-extract"/>
+    <file name="8.jpg" crc="3905519833" seo="true" ref="rar-extract"/>
+    <file name="9.jpg" crc="12974354" seo="true" ref="rar-extract"/>
+    <file name="10.jpg" crc="4090508730" seo="true" ref="rar-extract"/>
+    <file name="alternative-computer-2-icon--iwindows-iconset--wallec-32.png" crc="4101469153" seo="true" ref="32bit-or-64bit"/>
+    <file name="untitled.jpg" crc="3917500473" seo="true" ref="32bit-or-64bit"/>
+    <file name="22.jpg" crc="288156221" seo="true" ref="32bit-or-64bit"/>
+  </folder>
+  <file name="index.html" crc="241059059" seo="true" mt="1487164834764" redirect="true"/>
+  <file name="softwares.html" crc="488700826" seo="true" mt="1487164834764" redirect="true"/>
+  <file name="internet-boost.html" crc="61051146" seo="true" mt="1487164834764" redirect="true"/>
+  <file name="rar-extract.html" crc="4224580444" seo="true" mt="1487164834764" redirect="true"/>
+  <file name="32bit-or-64bit.html" crc="4048454956" seo="true" mt="1487164834764" redirect="true"/>
+</manifest>
